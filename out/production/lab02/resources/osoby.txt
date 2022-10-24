@@ -1,0 +1,4 @@
+Identyfikator osoby; Lista identyfikatorów preferowanych smaków
+1;1
+2;1
+3;3,2,1
